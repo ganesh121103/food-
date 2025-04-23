@@ -30,7 +30,7 @@ $id=$_SESSION['Did'];
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Foodonation</title>
     <script language="JavaScript" src="http://www.geoplugin.net/javascript.gp" type="text/javascript"></script>
     <link rel="stylesheet" href="../home.css">
 
@@ -38,7 +38,8 @@ $id=$_SESSION['Did'];
 </head>
 <body>
 <header>
-        <div class="logo">Food <b style="color: #06C167;">Donate</b></div>
+<div class="logo">Foo<b style="color: #ffa514;">D</b><b style="color: #06C167;">onation</b></div>
+
         <div class="hamburger">
             <div class="line"></div>
             <div class="line"></div>

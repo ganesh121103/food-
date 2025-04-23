@@ -15,7 +15,7 @@ if($_SESSION['name']==''){
     <link rel="stylesheet" href="admin.css">
     <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
 
-    <title>Document</title>
+    <title>Foodonation</title>
 </head>
 <body>
     <nav>
@@ -65,14 +65,9 @@ if($_SESSION['name']==''){
                     <span class="link-name">Logout</span>
                 </a></li>
 
-                <li class="mode">
-                    <a href="#">
-                        <i class="uil uil-moon"></i>
-                    <span class="link-name">Dark Mode</span>
-                </a>
 
                 <div class="mode-toggle">
-                  <span class="switch"></span>
+                  
                 </div>
             </li>
             </ul>

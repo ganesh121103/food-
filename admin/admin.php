@@ -93,14 +93,12 @@ echo "Connected successfully!";
                     <span class="link-name">Logout</span>
                 </a></li>
 
-                <li class="mode">
-                    <a href="#">
-                        <i class="uil uil-moon"></i>
-                    <span class="link-name">Dark Mode</span>
-                </a>
+                
+                   
+                
 
                 <div class="mode-toggle">
-                  <span class="switch"></span>
+                 
                 </div>
             </li>
             </ul>
@@ -112,7 +110,7 @@ echo "Connected successfully!";
         <div class="top">
             <i class="uil uil-bars sidebar-toggle"></i>
             <!-- <p>Food Donate</p> -->
-            <p  class ="logo" >Food <b style="color: #06C167; ">Donate</b></p>
+            <div class="logo">Foo<b style="color: #ffa514;">D</b><b style="color: #06C167;">onation</b></div>
              <p class="user"></p>
             <!-- <div class="search-box">
                 <i class="uil uil-search"></i>
